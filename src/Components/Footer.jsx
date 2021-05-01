@@ -12,7 +12,7 @@ const Footer = () => {
                 </div>
                 <div className="col-md-8 text-center p-3 footerDiv">
                     © 2020 Copyright:
-            <span className="text-dark">ShareLOAD</span>
+            <span className="text-dark">GetSource</span>
                 </div>
                 <div className="col-md-2">
 
