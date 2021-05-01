@@ -1,0 +1,39 @@
+{
+  "files": {
+    "main.css": "/.github.io/getSource_Project/static/css/main.bdc2d9cd.chunk.css",
+    "main.js": "/.github.io/getSource_Project/static/js/main.bc99b317.chunk.js",
+    "main.js.map": "/.github.io/getSource_Project/static/js/main.bc99b317.chunk.js.map",
+    "runtime-main.js": "/.github.io/getSource_Project/static/js/runtime-main.cf6364fc.js",
+    "runtime-main.js.map": "/.github.io/getSource_Project/static/js/runtime-main.cf6364fc.js.map",
+    "static/css/2.4c97ca4f.chunk.css": "/.github.io/getSource_Project/static/css/2.4c97ca4f.chunk.css",
+    "static/js/2.c775e4a3.chunk.js": "/.github.io/getSource_Project/static/js/2.c775e4a3.chunk.js",
+    "static/js/2.c775e4a3.chunk.js.map": "/.github.io/getSource_Project/static/js/2.c775e4a3.chunk.js.map",
+    "index.html": "/.github.io/getSource_Project/index.html",
+    "static/css/2.4c97ca4f.chunk.css.map": "/.github.io/getSource_Project/static/css/2.4c97ca4f.chunk.css.map",
+    "static/css/main.bdc2d9cd.chunk.css.map": "/.github.io/getSource_Project/static/css/main.bdc2d9cd.chunk.css.map",
+    "static/js/2.c775e4a3.chunk.js.LICENSE.txt": "/.github.io/getSource_Project/static/js/2.c775e4a3.chunk.js.LICENSE.txt",
+    "static/media/appImage1.dc045cad.jpg": "/.github.io/getSource_Project/static/media/appImage1.dc045cad.jpg",
+    "static/media/appImage2.85e9898d.png": "/.github.io/getSource_Project/static/media/appImage2.85e9898d.png",
+    "static/media/bg1.b56b6e48.jpg": "/.github.io/getSource_Project/static/media/bg1.b56b6e48.jpg",
+    "static/media/bg3.30b53c80.jpg": "/.github.io/getSource_Project/static/media/bg3.30b53c80.jpg",
+    "static/media/collection1.62bbc3f8.png": "/.github.io/getSource_Project/static/media/collection1.62bbc3f8.png",
+    "static/media/collection2.fb1508b7.jpg": "/.github.io/getSource_Project/static/media/collection2.fb1508b7.jpg",
+    "static/media/collection3.9d4dee1c.jpg": "/.github.io/getSource_Project/static/media/collection3.9d4dee1c.jpg",
+    "static/media/option1.6a289ab4.jpg": "/.github.io/getSource_Project/static/media/option1.6a289ab4.jpg",
+    "static/media/option2.c01d0a01.jpg": "/.github.io/getSource_Project/static/media/option2.c01d0a01.jpg",
+    "static/media/option3.b9a6696f.png": "/.github.io/getSource_Project/static/media/option3.b9a6696f.png",
+    "static/media/option4.174d1aa3.png": "/.github.io/getSource_Project/static/media/option4.174d1aa3.png",
+    "static/media/option5.8b6df35b.jfif": "/.github.io/getSource_Project/static/media/option5.8b6df35b.jfif",
+    "static/media/webImage4.5bbc83e3.jpg": "/.github.io/getSource_Project/static/media/webImage4.5bbc83e3.jpg",
+    "static/media/webImage5.d980d963.png": "/.github.io/getSource_Project/static/media/webImage5.d980d963.png",
+    "static/media/webImage6.909c449d.png": "/.github.io/getSource_Project/static/media/webImage6.909c449d.png",
+    "static/media/webImage8.6bcffb56.png": "/.github.io/getSource_Project/static/media/webImage8.6bcffb56.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.cf6364fc.js",
+    "static/css/2.4c97ca4f.chunk.css",
+    "static/js/2.c775e4a3.chunk.js",
+    "static/css/main.bdc2d9cd.chunk.css",
+    "static/js/main.bc99b317.chunk.js"
+  ]
+}
