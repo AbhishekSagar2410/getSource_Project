@@ -1,0 +1,67 @@
+/* default */
+*{
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+    /* font-family: 'DM Serif Display', serif; */
+}
+#root{
+    display: flex;
+    flex-direction: column;
+    
+}
+
+html
+{
+    font-size: 62.5%;
+}
+
+.main_service_cont{
+    height: 35rem;
+    width: 100%;
+    position: absolute;
+    z-index: -1;
+    background-color: #007d91;
+
+}
+
+.slant_cont{
+    height: 35rem;
+    width: 100%;
+    position: absolute;
+    transform: skewY(5deg);
+    transform-origin: top left;
+    background-color: darkgoldenrod;
+    background-color: #007d91;
+}
+
+.my_service_container_main_options{
+    margin-top: 8rem;
+}
+
+
+
+.main_card_options{
+    box-shadow: none;
+    height: 35rem;
+   
+
+}
+
+.center_main_cont_options{
+    justify-content: center;
+}
+
+.center_main_cont .card-body{
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-end;
+}
+
+.main_card_options:hover{
+    box-shadow: 0.5rem 0.5rem 1rem #787878;
+}
+
+.myPara_options{
+    color: white;
+}

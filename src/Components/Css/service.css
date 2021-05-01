@@ -1,0 +1,99 @@
+/* default */
+*{
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+    /* font-family: 'DM Serif Display', serif; */
+}
+#root{
+    display: flex;
+    flex-direction: column;
+
+}
+
+:root{
+    --main-bg:#3c3547;
+    --main-color:white;
+
+}
+html
+{
+    font-size: 62.5%;
+}
+
+.main_service_cont{
+    height: 35rem;
+    width: 100%;
+    position: absolute;
+    z-index: -1;
+    background-color: #007d91;
+
+}
+
+.slant_cont{
+    height: 35rem;
+    width: 100%;
+    position: absolute;
+    transform: skewY(5deg);
+    transform-origin: top left;
+    background-color: darkgoldenrod;
+    background-color: #007d91;
+}
+
+.center_main_cont{
+    justify-content: space-between;
+    align-items: center;
+    height: auto;
+}
+
+.inner_main_cont{
+    display: flex;
+    justify-content: center;
+    margin-top: 5rem;
+}
+.main_card{
+    border-radius: 1rem;
+    box-shadow: 0.5rem 0.5rem 1rem #787878;
+    
+}
+
+.main_card img{
+    height: 20rem;
+}
+
+.my_service_container_main{
+    margin-top: 12rem;
+    margin-bottom: 7rem;
+}
+
+
+.card_heading{
+    font-size: 1.8rem;
+    font-family: 'Krona One', sans-serif;
+
+}
+
+.getting_start_btn{
+    box-shadow: 0.2rem 0.2rem 0.2rem #e1e1e1;
+    border: 1px solid #007d91;
+}
+
+.service_heading{
+    font-size: 4rem;
+    color: white;
+    text-transform: capitalize;
+}
+
+.service_heading span{
+    color: tomato;
+}
+
+
+/* responsive */
+
+@media (max-width:768px) {
+    .center_main_cont{
+        height: auto;
+    }
+    
+}

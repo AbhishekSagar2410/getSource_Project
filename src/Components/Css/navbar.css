@@ -1,0 +1,121 @@
+*{
+    margin:0px;
+    padding: 0px;
+    box-sizing: border-box;
+}
+
+html{
+    font-size: 62.5%;
+}
+
+#root{
+    height: auto;
+    display: flex;
+    flex-direction: column;
+
+}
+
+.my_navbar_con{
+    width: 100vw;
+}
+
+.mynavbar{
+    height: auto;
+    font-size: 2rem;
+    background-color: #007d91;
+    justify-content: space-between;
+}
+
+.mynavbar a{
+    font-family: 'Orelega One', cursive;
+    font-size: 2.7rem;
+    color: #3f3333;
+    text-decoration: none;
+    margin-left: 2rem;
+    text-shadow: 0.1rem 0.1rem 0.9rem white;
+    
+}
+
+.mynavbar a:hover{
+    text-decoration: none;
+    color: #3f3333;
+}
+
+.navicon{
+    margin-right: 1rem;
+}
+
+.navbar_div{
+    justify-content: center;
+    padding-right: 10rem;
+}
+
+.navbar_ul{
+    display: flex;
+    padding-left: 0;
+    margin-bottom: 0;
+    list-style: none;
+}
+
+.li_items{
+    margin: 0rem 0rem 0rem 0rem;
+    width: 13rem;
+    color: beige;
+    background-color: #ffffff;
+    text-align: center;
+    border-radius: 0.1rem;
+    font-size: 1.5rem;
+    font-family: 'Nunito', sans-serif;
+
+}
+.li_items:hover{
+    background-color: beige;
+    font-size: 1.7rem;
+}
+.li_items a{
+    font-size: 1.8rem;
+}
+
+.li_items a:hover{
+    font-size: 1.7rem;
+    text-decoration: none;
+    color:  #007d91;
+}
+
+.myBtn_signUp{
+    width: 8rem;
+    height: 3rem;
+    border-radius: 0.5rem;
+    font-size: 1.3rem;
+    font-family: system-ui;
+    background-color: white;
+    color:#007d91 ;
+    box-shadow: 0.1rem 0.1rem 1rem #869796;
+    outline: none;
+    border: none;
+}
+
+.myBtn_signUp:hover{
+    background-color: #007d91;
+    color: white;
+    
+}
+
+@media(max-width:768px)
+{
+    .navbar_ul {
+        flex-direction: column;
+    }
+
+    .li_items{
+        width: 32rem;
+    }
+
+    .mynavbar .signA{
+        margin-left: auto;
+    }
+}
+
+
+
+
